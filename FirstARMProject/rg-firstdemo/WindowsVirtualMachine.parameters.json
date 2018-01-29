@@ -1,0 +1,15 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "adminUsername": {
+      "value": "skp1"
+    },
+    "dnsNameForPublicIP": {
+      "value": "skpvm100"
+    },
+    "adminPassword": {
+      "value": "Saroj@12345678"
+    }
+  }
+}
